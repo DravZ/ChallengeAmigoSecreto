@@ -24,7 +24,7 @@ Elimina al amigo sorteado para evitar repeticiones.
 
 Clona el repositorio
 
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/DravZ/ChallengeAmigoSecreto.git
 
 Abre el archivo index.html en tu navegador.
 
