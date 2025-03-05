@@ -29,7 +29,9 @@ git clone https://github.com/DravZ/ChallengeAmigoSecreto.git
 Abre el archivo index.html en tu navegador.
 
 1.- Agrega el nombre de un amigo en el campo de texto
+
 2.- Presiona el botón de Añadir
+
 3.- Una vez agregados todos los amigos presiona el boton de Sortear Amigo
 
 🛠️ Tecnologías Utilizadas
